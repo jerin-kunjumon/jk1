@@ -1,0 +1,8 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+i=2;
+printf("%d is my number",i);
+getch();
+}
